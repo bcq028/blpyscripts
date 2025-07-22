@@ -1,0 +1,3 @@
+vscode plugin: BlenderDevelopment
+command : blender start
+f5: blender run script
